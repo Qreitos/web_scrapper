@@ -1,4 +1,4 @@
-# web_scrapper
+# Web Scrapper
 Basic web scrapper for bazos.sk
 
 With GET "/home" request app will respond with insertions from bazos web page.  
